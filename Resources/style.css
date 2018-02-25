@@ -66,9 +66,16 @@ p {
   margin-right: 32px;
 }
 
-.short-stories {
+.stories {
   display: flex;
-  justify-content: space-between;
+  width: 100%;
+}
+
+.middle-story {
+  width: 50%; 
+}
+.bottom-story {
+  width: 50%;
 }
 
 .center-column {
